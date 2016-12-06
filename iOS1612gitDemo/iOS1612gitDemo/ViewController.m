@@ -20,6 +20,8 @@
     
     NSLog(@"说的话就不减肥");
     
+    NSLog(@"桌面客户端的操作");
+    
 }
 
 - (void)didReceiveMemoryWarning {
