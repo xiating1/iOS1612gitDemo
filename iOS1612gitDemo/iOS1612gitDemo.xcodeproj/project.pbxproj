@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8402B3201DF652B700338602 /* NewViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8402B31F1DF652B700338602 /* NewViewController.m */; };
 		841C721C1DF64FA100D5FCD1 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 841C721B1DF64FA100D5FCD1 /* main.m */; };
 		841C721F1DF64FA100D5FCD1 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 841C721E1DF64FA100D5FCD1 /* AppDelegate.m */; };
 		841C72221DF64FA100D5FCD1 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 841C72211DF64FA100D5FCD1 /* ViewController.m */; };
@@ -16,6 +17,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8402B31E1DF652B700338602 /* NewViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NewViewController.h; sourceTree = "<group>"; };
+		8402B31F1DF652B700338602 /* NewViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NewViewController.m; sourceTree = "<group>"; };
 		841C72171DF64FA100D5FCD1 /* iOS1612gitDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iOS1612gitDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		841C721B1DF64FA100D5FCD1 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		841C721D1DF64FA100D5FCD1 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -42,6 +45,8 @@
 		841C720E1DF64FA100D5FCD1 = {
 			isa = PBXGroup;
 			children = (
+				8402B31E1DF652B700338602 /* NewViewController.h */,
+				8402B31F1DF652B700338602 /* NewViewController.m */,
 				841C72191DF64FA100D5FCD1 /* iOS1612gitDemo */,
 				841C72181DF64FA100D5FCD1 /* Products */,
 			);
@@ -152,6 +157,7 @@
 				841C72221DF64FA100D5FCD1 /* ViewController.m in Sources */,
 				841C721F1DF64FA100D5FCD1 /* AppDelegate.m in Sources */,
 				841C721C1DF64FA100D5FCD1 /* main.m in Sources */,
+				8402B3201DF652B700338602 /* NewViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -300,6 +306,7 @@
 				841C72301DF64FA100D5FCD1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
